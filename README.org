@@ -1,3 +1,2 @@
-# org-mode-doc
-
-Great org-mode tutorial/reference I found [[http://doc.norang.ca/org-mode.html][here]].
+* org-mode-doc
+  Great org-mode tutorial/reference I found [[http://doc.norang.ca/org-mode.html][here]].
